@@ -1,2 +1,7 @@
-# CommSIgPros Exploring Digital Signal Processing and Reconstruction
+# CommSigPros Exploring Digital Signal Processing and Reconstruction
  CommSigPros is a digital signal processing project that provides hands-on experience with the foundational techniques used in DSP. It begins with creating and recording various signals, such as voice and sinusoidal waves, and advances to analyzing these signals using the Discrete Fourier Transform (DFT) to understand spectral density and the relationships between the Continuous-Time Fourier Transform (CTFT) and DFT, emphasizing the role of the sampling frequency (fₛ).  The project offers visualizations to demystify aliasing effects in sampled signals and implements ideal Low-Pass Filters (LPF) in MATLAB for signal reconstruction.
+
+The project offers visualizations to demystify aliasing effects in sampled signals and implements ideal Low-Pass Filters (LPF) in MATLAB for signal reconstruction. A deep dive into Pulse-Code Modulation (PCM) explores the spectral characteristics of quantization noise and assesses spectral efficiency. Furthermore, the project addresses multi-level signal processing and the application of pulse shaping techniques, such as Raised Cosine Pulse, to mitigate the effects of noise on transmission.
+
+The signal processing project aims to bridge the gap between theoretical concepts and practical applications in DSP, providing an interactive approach to understanding and implementing signal processing techniques. This project is ideal for students, educators, and hobbyists seeking to enhance their knowledge and skills in digital signal processing, signal analysis, and communications engineering.
+
